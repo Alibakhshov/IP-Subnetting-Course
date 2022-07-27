@@ -67,7 +67,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Contact
 
 <a href="https://www.linkedin.com/in/rauf-alibakhshov-6b5aa5210/">
-    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>raufalibakhshov02@gmail.com
+    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 
 <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
@@ -75,5 +75,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 </a>
 
 <a href="">
-    <img height="40" src="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/138eac24-9b28-11e6-ac6d-00163ed833e7/2915090657/gmail-1-screenshot.jpg"/>
+    <img height="40" src="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/138eac24-9b28-11e6-ac6d-00163ed833e7/2915090657/gmail-1-screenshot.jpg"/>raufalibakhshov02@gmail.com
 </a>
