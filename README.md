@@ -40,7 +40,7 @@ Do not have an account? Sign up <a href="https://www.udemy.com/join/signup-popup
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions are welcome, please feel free to to make it better. Your contribution is **highly appreciated**
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. 
 
