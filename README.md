@@ -76,5 +76,5 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 
 <a href="">
-    <img height="20" src="https://www.frandroid.com/telecharger/apps/gmail/>
+    <img height="20" src="https://www.frandroid.com/telecharger/apps/gmail"/>
 </a>
