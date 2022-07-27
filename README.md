@@ -52,5 +52,5 @@ Do not have an account? Sign up <a href="https://www.udemy.com/join/signup-popup
 ## What you will learn
 
 <ul>
-    <li></li>
+    <li><a href="01 - Binary math">How to convert from decimal to binary and reverse</a></li>
 </ul>
