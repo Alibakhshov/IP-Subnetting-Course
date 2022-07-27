@@ -48,3 +48,5 @@ Do not have an account? Sign up <a href="https://www.udemy.com/join/signup-popup
     <li><a href="04 - Subnetting">Subnetting</a></li>
     <li><a href="https://www.udemy.com/course/ip-subnetting/learn/lecture/13637406?start=1#overview">How to approach typical subnetting questions found in the CCNA, MCSA or CompTIA Network+ exams.</a></li>
 </ul>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
