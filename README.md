@@ -1,7 +1,5 @@
 # IP-Subnetting-Course
-This is a complete IP Subnetting Course: Beginner to Advanced by Udemy
 
-https://www.udemy.com/share/101r5o3@SPLRgLCQxCJOSm5lf5ak9rAf5lMfQKZCoKHNMoM8SO3chCFWJMGD_ATWVRqYe70XUA==/
 
 Credits
 
@@ -42,3 +40,9 @@ This is a complete IP Subnetting Course: Beginner to Advanced by Udemy. Through 
 
 This course divides the material up into small increments and then conquers each with multiple examples, practice questions and video explanations. You will never just get stuck on IPv4 subnetting again. 
 
+Link to the course: 
+
+ ```sh
+   https://www.udemy.com/share/101r5o3@SPLRgLCQxCJOSm5lf5ak9rAf5lMfQKZCoKHNMoM8SO3chCFWJMGD_ATWVRqYe70XUA==/
+
+   ```
