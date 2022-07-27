@@ -10,7 +10,7 @@
     <li><a href="#Contact">Contact</a></li>
   </ol>
 
-## About The Project
+## About The Course
 
 This is a complete IP Subnetting Course: Beginner to Advanced by Udemy. Through studying this you  deep dive into IP addressing and IP subnetting. It is great course for Cisco Certified Network Associate(CCNA)/Cisco Certified Network Personnel(CCNP), Microsoft Certified Systems Engineer(MCSE) and The Computing Technology Industry Association(CompTIA) students. This course dives deep into IPv4 addressing and IPv4 subnetting. Starting with binary math and ending with difficult IPv4 subnetting problems this course will prepare you for the subnetting questions on the CCNA, MCSA and CompTIA Network+ exams. Full of shortcuts and useful insights you will gain the clearest understanding of IPv4 addressing and IPv4 subnetting you have every had. 
 
