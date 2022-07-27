@@ -74,7 +74,6 @@ If you have a suggestion that would make this better, please fork the repo and c
     <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
 </a>
 
-
 <a href="">
     <img height="40" src="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/138eac24-9b28-11e6-ac6d-00163ed833e7/2915090657/gmail-1-screenshot.jpg"/>
 </a>
