@@ -9,7 +9,7 @@ https://www.guru99.com/ip-address-classes.html
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -32,7 +32,7 @@ https://www.guru99.com/ip-address-classes.html
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+
 
 
 <!-- ABOUT THE PROJECT -->
