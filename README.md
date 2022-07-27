@@ -44,11 +44,11 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. 
 
-1. Fork the Project
-2. Create your Feature Branch
-3. Commit your Changes 
-4. Push to the Branch 
-5. Open a Pull Request
+1. **Fork** the Project
+2. Create a new **Branch**
+3. **Commit** your Changes 
+4. Push to the **Branch** 
+5. Open a **Pull Request**
 
 <p align="right"><a href="#top">back to top</a></p>
 
