@@ -38,4 +38,4 @@ https://www.guru99.com/ip-address-classes.html
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a complete IP Subnetting Course: Beginner to Advanced by Udemy. Through studying this you  deep dive into IP addressing and IP subnetting. It is great course for Cisco Certified Network Associate(CCNA)/Cisco Certified Network Personnel(CCNP), MCSE and CompTIA students.
+This is a complete IP Subnetting Course: Beginner to Advanced by Udemy. Through studying this you  deep dive into IP addressing and IP subnetting. It is great course for Cisco Certified Network Associate(CCNA)/Cisco Certified Network Personnel(CCNP), Microsoft Certified Systems Engineer(MCSE) and CompTIA students.
