@@ -42,7 +42,7 @@ This course divides the material up into small increments and then conquers each
 
 ## Enroll to the course
 
-<b>NOTE:</b> You should have an Udemy acoount before enrolling to this course 
+<b>NOTE:</b> You should have an Udemy acount before enrolling to this course 
 
    https://www.udemy.com/share/101r5o3@SPLRgLCQxCJOSm5lf5ak9rAf5lMfQKZCoKHNMoM8SO3chCFWJMGD_ATWVRqYe70XUA==/
 
@@ -55,7 +55,7 @@ Do not have an account? Sign up <a href="https://www.udemy.com/join/signup-popup
     <li><a href="01 - Binary math">How to convert from decimal to binary and reverse</a></li>
     <li><a href="02 - Structure of an IPv4 Address">Various structure of an IPv4 address </a></li>
     <li><a href="03 - IPv4 address Types">IPv4 Address Types</a></li>
-    <li><a href="04 - Subnetting"></a>Subnetting</li>
+    <li><a href="04 - Subnetting">Subnetting</a></li>
     <li><a href=""></a></li>
     <li><a href=""></a></li>
 </ul>
