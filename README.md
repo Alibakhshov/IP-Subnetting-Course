@@ -42,7 +42,7 @@ This course divides the material up into small increments and then conquers each
 
 Link to the course: 
 
- ```sh
+
    https://www.udemy.com/share/101r5o3@SPLRgLCQxCJOSm5lf5ak9rAf5lMfQKZCoKHNMoM8SO3chCFWJMGD_ATWVRqYe70XUA==/
 
-   ```
+   
