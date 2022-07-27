@@ -3,6 +3,9 @@
 
   <ol>
     <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
+    <li><a href=""></a></li>
   </ol>
 
 ## About The Project
@@ -32,5 +35,19 @@ Do not have an account? Sign up <a href="https://www.udemy.com/join/signup-popup
     <li><a href="04 - Subnetting">Subnetting</a></li>
     <li><a href="https://www.udemy.com/course/ip-subnetting/learn/lecture/13637406?start=1#overview">How to approach typical subnetting questions found in the CCNA, MCSA or CompTIA Network+ exams.</a></li>
 </ul>
+
+<p align="right"><a href="#top">back to top</a></p>
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. 
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 <p align="right"><a href="#top">back to top</a></p>
