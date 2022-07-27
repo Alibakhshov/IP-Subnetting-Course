@@ -30,6 +30,8 @@ This is a complete IP Subnetting Course: Beginner to Advanced by Udemy. Through 
 
 This course divides the material up into small increments and then conquers each with multiple examples, practice questions and video explanations. You will never just get stuck on IPv4 subnetting again. 
 
+<p align="right"><a href="#top">back to top</a></p>
+
 ## Enroll to the course
 
 <strong>NOTE:</strong> You should have an Udemy acount before enrolling to this course 
@@ -38,6 +40,7 @@ This course divides the material up into small increments and then conquers each
 
    
 Do not have an account? Sign up <a href="https://www.udemy.com/join/signup-popup/?next=%2Fcourse%2Fsubscribe%2F%3FcourseId%3D1056284">here</a>
+<p align="right"><a href="#top">back to top</a></p>
 
 ## What you will learn
 
@@ -49,4 +52,4 @@ Do not have an account? Sign up <a href="https://www.udemy.com/join/signup-popup
     <li><a href="https://www.udemy.com/course/ip-subnetting/learn/lecture/13637406?start=1#overview">How to approach typical subnetting questions found in the CCNA, MCSA or CompTIA Network+ exams.</a></li>
 </ul>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top">back to top</a></p>
