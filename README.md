@@ -7,7 +7,7 @@
     <li><a href="## What you will learn">What you will learn</a></li>
     <li><a href="## Contributing">Contributing</a></li>
     <li><a href="## Acknowledgments">Acknowledgments</a></li>
-    <li><a href="##Contact">Contact</a></li>
+    <li><a href="#Contact">Contact</a></li>
   </ol>
 
 ## About The Project
