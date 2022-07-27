@@ -40,7 +40,7 @@ This is a complete IP Subnetting Course: Beginner to Advanced by Udemy. Through 
 
 This course divides the material up into small increments and then conquers each with multiple examples, practice questions and video explanations. You will never just get stuck on IPv4 subnetting again. 
 
-##Link to the course: 
+## Link to the course: 
 
 <b>NOTE:</b> You should have an Udemy acoount before enrolling to this course 
 
