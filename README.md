@@ -51,3 +51,15 @@ If you have a suggestion that would make this better, please fork the repo and c
 5. Open a Pull Request
 
 <p align="right"><a href="#top">back to top</a></p>
+
+## Acknowledgments
+
+* [IPv4 Transmission types](https://subscription.packtpub.com/book/networking-and-servers/9781789340501/4/ch04lvl1sec32/ipv4-transmission-types)
+* [Oreilly](https://www.oreilly.com/library/view/comptia-network-certification/9781789340501/3cd425f7-dfba-49c3-9be0-2644d40eb7d8.xhtml)
+* [Comparison of IPv4 and IPv6](https://www.ibm.com/docs/en/i/7.1?topic=6-comparison-ipv4-ipv6)
+* [Techtarget](https://www.techtarget.com/searchnetworking/definition/CIDR)
+* [Shellhacks](https://www.shellhacks.com/cidr-notation-explained-examples/)
+* [GitHub Pages](https://pages.github.com)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
