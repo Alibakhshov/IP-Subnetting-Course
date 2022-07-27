@@ -1,17 +1,9 @@
 # IP-Subnetting-Course
+  ## Table of Contents
 
-
-Credits
-
-https://www.guru99.com/ip-address-classes.html
-
-
-<!-- TABLE OF CONTENTS -->
-
-  <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="##about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -32,8 +24,6 @@ https://www.guru99.com/ip-address-classes.html
   </ol>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This is a complete IP Subnetting Course: Beginner to Advanced by Udemy. Through studying this you  deep dive into IP addressing and IP subnetting. It is great course for Cisco Certified Network Associate(CCNA)/Cisco Certified Network Personnel(CCNP), Microsoft Certified Systems Engineer(MCSE) and The Computing Technology Industry Association(CompTIA) students. This course dives deep into IPv4 addressing and IPv4 subnetting. Starting with binary math and ending with difficult IPv4 subnetting problems this course will prepare you for the subnetting questions on the CCNA, MCSA and CompTIA Network+ exams. Full of shortcuts and useful insights you will gain the clearest understanding of IPv4 addressing and IPv4 subnetting you have every had. 
@@ -57,5 +47,4 @@ Do not have an account? Sign up <a href="https://www.udemy.com/join/signup-popup
     <li><a href="03 - IPv4 address Types">IPv4 Address Types</a></li>
     <li><a href="04 - Subnetting">Subnetting</a></li>
     <li><a href="https://www.udemy.com/course/ip-subnetting/learn/lecture/13637406?start=1#overview">How to approach typical subnetting questions found in the CCNA, MCSA or CompTIA Network+ exams.</a></li>
-    <li><a href=""></a></li>
 </ul>
